@@ -1,0 +1,8 @@
+1)Abstract Factory Design Pattern & Strategy Design Pattern used to develop current application
+2).Net core api is used so it can be acceessible for mobile devices
+3)Enabled cors for http://localhost:4200/ in startup class
+4)Angular 10 is used to develop UI
+5)No authentication & validations used in application
+6)Using swagger UI in web api
+7)Output of this solution for api & angular attached
+8)please install npm using npm install command to run application because i have deleted node_modules folder
